@@ -1,0 +1,8 @@
+POST http://0.0.0.0:5000
+Content-Type: application/json
+
+{
+    "project_id": "GOOGLE PROJECT ID",
+    "table_id": "TABLE ID",
+    "data": "STUFF TO WRITE TO DB"
+}
